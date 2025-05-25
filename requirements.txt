@@ -1,0 +1,13 @@
+gradio==3.50.2
+gtts
+nltk
+PyPDF2
+sentence-transformers
+scikit-learn
+requests
+faiss-cpu
+openai-whisper
+deep-translator
+numpy
+whisper
+joblib

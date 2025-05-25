@@ -1,0 +1,5 @@
+tesseract-ocr
+poppler-utils
+ffmpeg
+libgl1
+espeak-ng

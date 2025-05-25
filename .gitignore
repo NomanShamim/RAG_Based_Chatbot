@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pyenv
+.python-version
+
+# Logs and debug
+*.log
+
+# Gradio session cache
+gradio_cached_examples/
+
+# Hugging Face datasets cache
+datasets/
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# Ignore exported chat/downloads if saved
+chat_history.txt
+exported_queries.json
