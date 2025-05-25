@@ -5,7 +5,7 @@ A **Retrieval-Augmented Generation (RAG)** chatbot built using **LLaMA3**, **Gra
 
 👉 **Live Demo:** [Try it on Hugging Face Spaces](https://huggingface.co/spaces/NomanShamim/RAG_Chatbot)
 
-📂 **GitHub Repo:** [https://github.com/NomanShamim/RAG_Based_Chatbot](https://github.com/NomanShamim/RAG_Based_Chatbot)
+📂 **GitHub Repo:** [RAG_Based_Chatbot](https://github.com/NomanShamim/RAG_Based_Chatbot)
 
 ---
 
